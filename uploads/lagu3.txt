@@ -1,0 +1,144 @@
+[Nada dasar]
+C
+
+--[Intro]--
+C     G#  G#  A# C
+C     F   Dm  G  G
+Bdim  C7  G#  A# C 
+
+--[*]--
+C              Dm
+  3 3  4-3  3    4 4   4 5-4 4   
+- Memandang~mu.. walau sela~ lu
+G             F          C
+                .
+  5   5 6  7  7-1 4 4  4 4  3  3 2 3        
+- Tak akan pernah beri jemu di hatiku
+C            Dm
+  3 3  4-3 3   4 4   4 5-4 4
+- Menyapa~mu.. walau sela~lu
+G           F          C
+            .
+  5 5   6 7 1  4  4  4 4   3  3 3  2  3
+- Masih terasa merdu bagai di awal jumpa
+
+Em     F    C
+       .  . .
+  5  7 1  1 1 7    5 3 4 5
+- Mencari apa yang aku cari..
+Em      F      A#            G
+        .   .  .
+  5 7   1   1  1-6# 6#  6# 6 5
+- Merangkai rindu~  nya ha-tiku
+
+--[Reff]--
+  C
+3 3   4 4  3  3    4 4 3
+Bulan bawa bintang menari,
+               F
+7 7 7   6   5  6~4
+i-ringi langkahku
+  Dm
+2 2   3 3   2 2  3 3 2
+Malam hadir bawa diriku,
+G                C    G
+  7  7  6  5 4   5-3
+- berjumpa denganmu~
+
+  C
+3 3 4 4  3 3  4 4 3
+Dua hati satu tujuan, 
+               F
+7 7   7   6  5 6~4
+melangkah bersama
+  Dm
+2 2   3 3   2 2  3 3 2
+Cinta hadir bawa diriku,
+G                C
+  7  7  6  5 4   5-3 
+- menyentuh indahnya
+
+--[Int]--
+C   A# Fm  C   A# Fm  C
+Fm  G# C   Fm  G# A#  C
+G#  A# C
+
+--[**]--
+C           Dm
+  3 3 4-3 3   4 4   4 5-4 4 
+- Memelukmu.. walau sela~lu
+G             F             C
+              .
+  5   5 6  7  1   4   4   4 4 3 3 2  3  
+- Tak akan pernah sanggup aku melepasnya
+C             Dm
+  3 3  4-3 3    4 4   4 5-4 4 
+- Membelai~mu.. walau sela~lu
+G           F           C
+            .
+  5 5   6 7 1  4 4   4  4   3  3 2 3
+- Masih terasa harum lembut di hatiku
+
+Em     F    C
+       .  . .
+  5  7 1  1 1 7    5 3 4 5
+- Mencari apa yang aku cari
+Em      F      A#            G
+        .   .  .
+  5 7   1   1  1-6# 6#  6# 6 5
+- Merangkai rindu~  nya ha-tiku
+
+--[Reff]--
+  C
+3 3   4 4  3  3    4 4 3
+Bulan bawa bintang menari,
+               F
+7 7 7   6   5  6~4
+i-ringi langkahku
+  Dm
+2 2   3 3   2 2  3 3 2
+Malam hadir bawa diriku,
+G                C   G
+  7  7  6  5 4   5-3
+- berjumpa denganmu~
+
+  C
+3 3 4 4  3 3  4 4 3
+Dua hati satu tujuan, 
+               F
+7 7   7   6  5 6~4
+melangkah bersama
+  Dm
+2 2   3 3   2 2  3 3 2
+Cinta hadir bawa diriku,
+G                C
+  7  7  6  5 4   5-3 
+- menyentuh indahnya,
+
+  C
+3 3   4 4  3  3    4 4 3
+Bulan bawa bintang menari,
+               F
+. .
+1 1 7   6   5  6~4
+i-ringi langkahku
+  Dm
+2 2   3 3   2 2  3 3 2
+Malam hadir bawa diriku,
+G                C
+  7  7  6  5 4   5-3
+- berjumpa denganmu~
+
+  C
+3 3 4 4  3 3  4 4 3
+Dua hati satu tujuan, 
+               F
+. .
+1 1   7   6  5 6~4
+melangkah bersama
+  Dm
+2 2   3 3   2 2  3 3 2
+Cinta hadir bawa diriku,
+G                C
+  7  7  6  5 4   5-3 
+- menyentuh indahnya...
