@@ -28,6 +28,13 @@ const data = [
         isi: "lagu2.txt",
         tanggal:"2023-05-22"
     },
+    {
+        id:5,
+        band: "Peterpan",
+        lagu: "aadm",
+        isi: "lagu2.txt",
+        tanggal:"2023-05-22"
+    },
     ];
   
   module.exports = data;
