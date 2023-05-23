@@ -6,10 +6,10 @@ const data = require('./data');
 
 // Membuat koneksi ke MySQL
 const connection = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    password: '',
-    database: 'test'
+    host: 'bmqzdqbo211z6nkoejlc-mysql.services.clever-cloud.com', //'localhost',
+    user: 'uavivtxexz8xonoy', //'root',
+    password: '815mQNJJgJ1n9GShcQ4O', //'',
+    database: 'bmqzdqbo211z6nkoejlc' //'test'
   });
 
 // Menghubungkan ke MySQL saat server Express.js dijalankan
@@ -56,7 +56,7 @@ app.get('/lagulist/:id', (req, res) => {
 }); 
 
 app.get('/lagudata', (req, res) => {
-    console.log(data);
+    //console.log(data);
     res.json(data); 
 });
 
