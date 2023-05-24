@@ -1,102 +1,71 @@
---[intro] :
-C  Em -   F  G#
-C  Dm -G  C  C7
-
---[*] :
-F        Fm     Em
+(*)
   .    .
   1 6  1 5# 5 4 5
   Saat baha-giaku 
-         Am        Dm
          . .   .
 5 6   7  2 1 7 1   4
 duduk berdua denganmu
-         Fm       C
          .
 4 5  6   1  5# 5# 5
 Hanyalah bersa-ma mu, 
-F         Fm         Em
   .       .
   1   6   1 5# 5  4  5
   mungkin aku  terlanjur
-            Am        Dm
             . .  . .  . . .
 5   6   7   2 1  2 2  2 3 1 6
 Tak sanggup jauh dari darimu~
-         G
          .  .   .
 6  5 5   2  2   3  7
 Ku ingin engkau slalu
 
-
---- [Reff]:
-      C
+(Reff)
               .
 3   2 1  1 7  1
 Tuk jadi milikku 
-   Am
                    .
 5  6 6   6  6   7  1
 ku ingin engkau mampu
-   Dm               G
 .                 . .
 1  6 6   6  6   7 1 3
 Ku ingin engkau selalu 
-         C
                 .
 4 2  7 6 5  5 7 1
 bisa temani diriku
-   Am
                   .
 3  6   6 6   6 7  1
 sampai akhir hayatmu
-     Dm            Fm
                .   . . .
 5  6 6   6 6 7 1   3 4 2
 meskipun itu hanya terucap
-     Em   Am      Em
                ..
 6 6  6 5  5  5 21 6 6  6 5 5
 dari mulutmu ~ ~  dari dirimu
-        Am
 .    .  .  .   .  .
 2    2  2  2   3  1
 yang terlanjur mampu
-     Dm
      . .   . .
 6 6 62 2   3 1 6
 bahagiakan aku ~
-         G
          .   .  .     .   .
 6   6  5 2   2  3 7   1 7 1
 hingga ujung waktuku, selalu
 
----[interlude]:
-C  Em  -  F  G#
-C  Dm -G  C  C7
-
----[**]:
-F        Fm           Em
+(**)
   . . .  .  .  .   .  .  .  . .
   4 1 2  2# 2# 2#  2# 1  5  23
   Seribu ja-lanpun ku-nanti ~
-          Am       Dm
 . .  .  . . . .    . . .
 6 5  4  4 3 4 5    3 6 1
 Bila berdua dengan dirimu
-          Fm     C
           .  . . . 
 5 6   5   4  5 4 3
 Melangkah bersamamu
-F        Fm            Em
 .    .
 1  6 1   5#  5# 5# 5 4 5
 Ku yakin tak a-da  satupun 
-           Am          Dm
            . . .       .  . .  .
 5    6  7  2 3 1   6 6 2  2 3  1 6
 yang mampu merubah rasaku untukmu~
-         G
          .  .   .
 6  6 6   2  2   3   7  
 Ku ingin engkau slalu
