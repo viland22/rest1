@@ -3,6 +3,7 @@ const mysql = require('mysql2');
 const path = require('path');
 const app = express();
 const data = require('./data');
+var cors = require('cors')
 
 // // Membuat koneksi ke MySQL
 // const connection = mysql.createConnection({
@@ -54,6 +55,8 @@ const data = require('./data');
 //         }
 //     });
 // }); 
+
+app.use(cors());
 
 app.get('/lagudata', (req, res) => {
     //console.log(data);
