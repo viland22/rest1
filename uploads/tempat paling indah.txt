@@ -1,0 +1,164 @@
+--[*]:
+  G                     Bm
+5 1  3  2  3 2  5  4  3 2 3
+`
+Aku, Ku terlalu mencintaimu
+                    C
+3  2 3   2  5   4 3 2 1
+Terlebih ku menggilaimu
+         D
+6 1  2   2
+`
+Salahkah ku...
+
+    G                     Bm
+5   1  3  2   3 2  5 4  3 2  3
+`
+Hingga ku tak tahu arah hidupku
+                  C
+3  2 3   2 5  4 3 2 1
+Ku telah buta karenamu
+         D
+6 1  2   2
+`
+Tolong aku
+
+--[br]:
+   Em  Bm      C     G        D      
+1  6 3 3  5    4   3 3  2 1-2 2
+Ku lelaki yang tak bisa mena~ngis
+     Em        D       C
+1 7  6   7 1   7 1 2-1 3
+Apa yang harus kulaku~ kan
+
+--[**]
+  G                         Bm
+5 6  5-3 3  2 3 2  5 4  3   2  3
+Aku..u,  Ku begitu menginginkanmu
+                      C
+3  2   3  2  5 4   3  2 1
+Takkan mampu hidup tanpamu
+        D
+6 1   2 2
+`
+Mengertilah
+
+    G
+5   6   5-3 
+Hingga..a  
+                      Bm
+3 2 3   2   5   4   3 2 3
+kuingin kau genggam hatiku
+                    C
+3   2 3  2   5 4  3 2 1
+Dan dekatkan pada hatimu
+         D    
+6 1    2 2
+`
+Tolong aku
+
+--[br]:
+   Em  Bm      C     G        D      
+1  6 3 3  5    4   3 3  2 1-2 2
+Ku lelaki yang tak bisa mena~ngis
+     Em        D       C  -  D
+1 7  6   7 1   7 1 2-1 3
+Apa yang harus kulaku~ kan
+
+--[Reff]:
+     G        D       G     
+         .  .    . .
+3 4  5   2  1 5  2 1  5   4-3
+Bila kau menjadi milikku..u
+      C               G       D
+5   3 5 3 5   3 5-6 3 3  4 3  2
+Kan kurelakan semua sisa hidupku
+      G       D           G
+        . .       . .
+3   4 5 2 1   5   2 1 5   4-3
+Kan kujadikan kau ratuku..u
+          Am            C
+                      . .
+2  2  2   4    3 4    1 1
+Di tempat yang paling indah
+          Am            C
+                      . .
+2  2  2   4    3 4    1 1
+Di tempat yang paling indah
+        Em
+4  3 2  1
+Di hidupku
+
+--[int]
+ Em      C       G       D       Em
+|       |       |       |       |
+|6 63 67|1 17 12|3 32 34|2 21 23|
+ ` `  ``    `
+                        4  3 1   3
+                        Di hidup ku
+ Em      C       G       D
+|       |       |       |       |
+|6 63 67|1 17 12|3 32 34|2 21 23|
+ ` `  ``    `
+ Em      Bm      C     G 
+|.    . |       |       |       |
+|1 3  1 |7  3 7 |6 3  6 |5  &#8226; 43|
+ C              D                G
+|       |       |.      |.  .  .|.
+|4 43 45|4 43 45|2 &#8226;  &#8226; |3  2  1|1
+
+
+     G        D       G
+         .  .    . .
+3 4  5   2  1 5  2 1  5   4-3
+Bila kau menjadi milikku..u
+      C               G       D
+5   3 5 3 5   3 5-6 3 3  4 3  2
+Kan kurelakan semua sisa hidupku
+      G       D       C
+        . .       . .
+3   4 5 2 1   5   2 1 5   4-3
+Kan kujadikan kau ratuku..u
+          Am            C
+                      . .
+2  2  2   4    3 4    1 1
+Di tempat yang paling indah
+        G
+4  3 2  1
+Di hidupku
+
+--[int]
+   G      D     Em     
+  |.    .|.    .|.    |. .  |  
+35|1 &#8226;5 1|2 &#8226;5 2|3 &#8226; &#8226;|2 1 7|
+   C      G     Am    D      
+  |      |     |    .|. .  |.
+  |6 &#8226;3 5|5 6 3|5 6 3|2 1 7|1
+
+
+     G        D       G
+         .  .    . .
+3 4  5   2  1 5  2 1  5   4-3
+Bila kau menjadi milikku..u
+      C               G       D
+5   3 5 3 5   3 5-6 3 3  4 3  2
+Kan kurelakan semua sisa hidupku
+      G       D       G
+        . .       . . .   . .
+3   4 5 2 1   5   2 1 3   2-1
+Kan kujadikan kau ratuku..u
+          Am            C
+                      . .
+2  2  2   4    3 4    1 1
+Di tempat yang paling indah
+          Am              C
+                      . . .
+2  2  2   4    3 4    1 2-1
+Di tempat yang paling inda~h
+          Am            C
+                      . .
+2  2  2   4    3 4    1 1
+Di tempat yang paling indah
+        G
+4  3 2  1
+Di hidupku
