@@ -5,6 +5,8 @@ const app = express();
 const data = require('./data');
 var cors = require('cors')
 
+app.use(cors());
+
 // Membuat koneksi ke MySQL
 const connection = mysql.createConnection({
     host: 'bmqzdqbo211z6nkoejlc-mysql.services.clever-cloud.com', //'localhost',
@@ -56,7 +58,7 @@ app.get('/lagulist/:id', (req, res) => {
     });
 }); 
 
-app.use(cors());
+
 
 app.get('/lagudata', (req, res) => {
     //console.log(data);
