@@ -1,4 +1,4 @@
-==[*]==
+(*)
 .
 3  5
 Cantik...
@@ -12,7 +12,7 @@ Cantik...
 5 4 2
 Dirimu...
 
-==[**]==
+(**)
        .
 7 6 5  3  5
 O . .  cantik
@@ -32,7 +32,7 @@ Selalu ...
   1 1 1  1 1   2 3  4
 ..Hatiku hanya untukmu
 
-==[Reff]==
+(Reff)
 . . . .  .    .  . .   .   . .   .  .
 3 3 4 5  5    5  5 5   4   3 2   2  1
 Ada hati yang termanis dan penuh cinta
@@ -52,9 +52,9 @@ Ini kesungguhan
 6   4   3 2 1 7    2 1
 Sungguh aku sayang kamu
 
-[Interlude]
-Kembali ke  [**]
-[Reff] 
+
+Kembali ke  (**)
+(Reff)
                 .                .
   5 5   5  5  7 1   5 5  5 5  7  1
 ..Ingin ku berjalan menyusuri cinta
@@ -65,7 +65,7 @@ Cinta yang abadi untukmu slamanya
 6   6 5  4# 3  6 2  3  2  6 2  3-2
 Hei heya ya ya heya ya ya heya a..
 
-Kembali ke : [Reff]| 2X
+Kembali ke (Reff) 2X
 . .  .  .  . .  .
 5 1  2  1  5 1  2-7   
 Heya ya ya heya ya
