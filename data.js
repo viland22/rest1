@@ -40,7 +40,32 @@ const data = [
     { id:38, artist:'Sheila on 7', lagu: 'Sephia', text: 'Sephia.Txt', tanggal: '5/26/2023 20:10' },
     { id:39, artist:'Sheila on 7', lagu: 'Dan', text: 'Dan.Txt', tanggal: '5/26/2023 20:10' },
     { id:40, artist:'Sheila on 7', lagu: 'Anugerah Terindah Yang Pernah Kumiliki', text: 'Anugerah Terindah Yang Pernah Kumiliki.Txt', tanggal: '5/26/2023 20:10' },
-    
+    { id:41, artist:'Raisa', lagu: 'Apalah arti menunggu', text: 'Apalah arti menunggu.txt', tanggal: '5/27/2023 20:10' },
+    { id:42, artist:'Seventeen', lagu: 'Cinta tak bertuan', text: 'Cinta tak bertuan.txt', tanggal: '5/27/2023 20:10' },
+    { id:43, artist:'Seventeen', lagu: 'Sumpah ku mencintaimu', text: 'Sumpah ku mencintaimu.txt', tanggal: '5/27/2023 20:10' },
+    { id:44, artist:'Iwan fals', lagu: 'Kemesraan', text: 'Kemesraan.txt', tanggal: '5/27/2023 20:10' },
+    { id:45, artist:'Ungu', lagu: 'Cinta dalam hati', text: 'Cinta dalam hati.txt', tanggal: '5/27/2023 20:10' },
+    { id:46, artist:'Dewa 19', lagu: 'Kangen', text: 'Kangen.txt', tanggal: '5/27/2023 20:10' },
+    { id:47, artist:'Rama', lagu: 'Bertahan', text: 'Bertahan.txt', tanggal: '5/27/2023 20:10' },
+    { id:48, artist:'Pasto', lagu: 'Aku pasti kembali', text: 'Aku pasti kembali.txt', tanggal: '5/27/2023 20:10' },
+    { id:49, artist:'Virgoun', lagu: 'Bukti', text: 'Bukti.txt', tanggal: '5/27/2023 20:10' },
+    { id:50, artist:'Armada', lagu: 'Asal kau bahagia', text: 'Asal kau bahagia.txt', tanggal: '5/27/2023 20:10' },
+    { id:51, artist:'Ungu', lagu: 'Demi waktu', text: 'Demi waktu.txt', tanggal: '5/27/2023 20:10' },
+    { id:52, artist:'Acha septriasa', lagu: 'Sampai menutup mata', text: 'Sampai menutup mata.txt', tanggal: '5/27/2023 20:10' },
+    { id:53, artist:'Melly Goeslaw', lagu: 'Bagaikan langit', text: 'Bagaikan langit.txt', tanggal: '5/27/2023 20:10' },
+    { id:54, artist:'Kerispatih', lagu: 'Lagu rindu', text: 'Lagu rindu.txt', tanggal: '5/27/2023 20:10' },
+    { id:55, artist:'Melly Goeslaw', lagu: 'Mungkin', text: 'Mungkin.txt', tanggal: '5/27/2023 20:10' },
+    { id:56, artist:'Seventeen', lagu: 'Menemukanmu', text: 'Menemukanmu.txt', tanggal: '5/27/2023 20:10' },
+    { id:57, artist:'Seventeen', lagu: 'Jaga selalu hatimu', text: 'Jaga selalu hatimu.txt', tanggal: '5/27/2023 20:10' },
+    { id:58, artist:'Vagetoz', lagu: 'Kehadiranmu', text: 'Kehadiranmu.txt', tanggal: '5/27/2023 20:10' },
+    { id:59, artist:'Vierra', lagu: 'KesepianVierra', text: 'KesepianVierra.txt', tanggal: '5/27/2023 20:10' },
+    { id:60, artist:'J-Rocks', lagu: 'Cobalah kau mengerti', text: 'Cobalah kau mengerti.txt', tanggal: '5/27/2023 20:10' },
+    { id:61, artist:'Yovi n Nuno', lagu: 'Janji suci', text: 'Janji suci.txt', tanggal: '5/27/2023 20:10' },
+    { id:62, artist:'Banda Neira', lagu: 'Sampai jadi debu', text: 'Sampai jadi debu.txt', tanggal: '5/27/2023 20:10' },
+    { id:63, artist:'Zigaz', lagu: 'Sahabat jadi cinta', text: 'Sahabat jadi cinta.txt', tanggal: '5/27/2023 20:10' },
+    { id:64, artist:'Rossa', lagu: 'Ayat-ayat cinta', text: 'Ayat-ayat cinta.txt', tanggal: '5/27/2023 20:10' },
+    { id:65, artist:'Melly Goeslaw', lagu: 'Gantung', text: 'Gantung.txt', tanggal: '5/27/2023 20:10' },
+
     ];
   
   module.exports = data;
