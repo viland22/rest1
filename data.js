@@ -62,9 +62,9 @@ const data = [
     { id:60, artist:'J-Rocks', lagu: 'Cobalah kau mengerti', text: 'Cobalah kau mengerti.txt', tanggal: '5/27/2023 20:10' },
     { id:61, artist:'Yovi n Nuno', lagu: 'Janji suci', text: 'Janji suci.txt', tanggal: '5/27/2023 20:10' },
     { id:62, artist:'Banda Neira', lagu: 'Sampai jadi debu', text: 'Sampai jadi debu.txt', tanggal: '5/27/2023 20:10' },
-    { id:63, artist:'Zigaz', lagu: 'Sahabat jadi cinta', text: 'Sahabat jadi cinta.txt', tanggal: '5/27/2023 20:10' },
-    { id:64, artist:'Rossa', lagu: 'Ayat-ayat cinta', text: 'Ayat-ayat cinta.txt', tanggal: '5/27/2023 20:10' },
-    { id:65, artist:'Melly Goeslaw', lagu: 'Gantung', text: 'Gantung.txt', tanggal: '5/27/2023 20:10' },
+    { id:63, artist:'Zigaz', lagu: 'Sahabat jadi cinta', text: 'Sahabat jadi cinta.txt', tanggal: '5/27/2023 20:14' },
+    { id:64, artist:'Rossa', lagu: 'Ayat-ayat cinta', text: 'Ayat-ayat cinta.txt', tanggal: '5/27/2023 20:15' },
+    { id:65, artist:'Melly Goeslaw', lagu: 'Gantung', text: 'Gantung.txt', tanggal: '5/28/2023 20:10' },
 
     ];
   
